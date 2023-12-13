@@ -2,6 +2,7 @@
 # Setting up SSH Key for GitHub on Raspberry Pi
 
 This guide will help you set up an SSH key for your GitHub account and not only on a Raspberry Pi but also on a desktop and server linux distro OS.
+At the time of documentig this I'm running on the Raspberry Pi OS on a Pi 3B.
 
 ### 1. Check for Existing SSH Keys
 
