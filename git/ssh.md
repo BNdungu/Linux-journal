@@ -13,6 +13,13 @@ cd ~/.ssh
 ls
 ```
 
+Note that the raspberry by default doesn't have the .ssh directory and thus must created before running the command above.
+
+```bash 
+mkdir -m 700 ~/.ssh
+```
+mkdir is the command to make a directory. -m 700 tells it to make it with the recommended permissions which prevent other users on the system from browsing it.
+
 Look for `id_rsa` (private key) and `id_rsa.pub` (public key). If they exist, use them. If not, generate a new key.
 
 ### 2. Generate SSH Key
