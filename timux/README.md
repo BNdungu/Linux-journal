@@ -1,4 +1,4 @@
-## Timux
+# Timux
 
 Tmux (short for "terminal multiplexer") is a powerful command-line tool that allows you to manage multiple terminal sessions within a single window. It's particularly handy for organizing and multitasking in the terminal. Here are some basic commands and functionalities of Tmux:
 
