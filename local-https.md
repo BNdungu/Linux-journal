@@ -1,4 +1,3 @@
-```markdown
 # Enable HTTPS on Your Local Environment
 
 ## Install mkcert and Create Certificates
