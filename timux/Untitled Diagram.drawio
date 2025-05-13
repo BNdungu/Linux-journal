@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="JJyF2JsPXzv_McWFMLFo">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="5440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-1" value="NODES&lt;br&gt;POOL TABLES&lt;div&gt;ID/ACCOUNT NUMBER(XXXXX)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-2" target="Yeo1Gkacs1woXgW3xeym-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-2" value="NODES&lt;br&gt;POOL TABLES&lt;div&gt;ID/ACCOUNT NUMBER(XXXXY)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-3" value="NODES&lt;br&gt;POOL TABLES&lt;div&gt;ID/ACCOUNT NUMBER(XXXXZ)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-4" target="Yeo1Gkacs1woXgW3xeym-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-4" target="Yeo1Gkacs1woXgW3xeym-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-4" target="Yeo1Gkacs1woXgW3xeym-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-4" target="Yeo1Gkacs1woXgW3xeym-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-4" value="MESSAGE BROKER (MQTT BROKER)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-5" target="Yeo1Gkacs1woXgW3xeym-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-5" target="Yeo1Gkacs1woXgW3xeym-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-5" target="Yeo1Gkacs1woXgW3xeym-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-5" target="Yeo1Gkacs1woXgW3xeym-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-5" value="BACKEND APPLICATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-6" target="Yeo1Gkacs1woXgW3xeym-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-6" target="Yeo1Gkacs1woXgW3xeym-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-6" target="Yeo1Gkacs1woXgW3xeym-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-6" value="MPESA DARAJA API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-7" target="Yeo1Gkacs1woXgW3xeym-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-7" value="PAYERS PHONE&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="280" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-8" target="Yeo1Gkacs1woXgW3xeym-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-8" target="Yeo1Gkacs1woXgW3xeym-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-8" value="DATABASE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-5" target="Yeo1Gkacs1woXgW3xeym-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-31" target="Yeo1Gkacs1woXgW3xeym-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. PAYMENT INFO FORWADED&lt;/h1&gt;&lt;p&gt;The payment confirmation is forwaded to the backend service application&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="190" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-33" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. PAYMENT CONFIRMATION&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Payment is confirmed and it details recoreded in a data base for later refference&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-60" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-33" target="Yeo1Gkacs1woXgW3xeym-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. FUNGUA GAME&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Since payment has been confirmed the backend application publishes a message via the message broker to the node/pool table of account XXXXY&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-41" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;5. RECEIVES TELEMETRY MESSAGE&lt;/h1&gt;&lt;p&gt;Locker with account number XXXXY receives its message and checks to see first if there is a game in session and if, it waits for the game to finish if not it immediatelly opens for a new game&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="650" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-42" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. PAYMENT IS DONE&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;MPESA payment transaction is done with details&amp;nbsp;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PAYBILL NUMBER: 12345678&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ACCOUNT NUMBER: XXXXY&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-60" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Yeo1Gkacs1woXgW3xeym-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.381;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Yeo1Gkacs1woXgW3xeym-2" target="Yeo1Gkacs1woXgW3xeym-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
